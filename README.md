@@ -22,7 +22,8 @@ Features: Age, cholesterol levels, BMI, blood pressure, smoking status, diabetes
 
 Target Variable: TenYearCHD (1: High risk, 0: Low risk)
 
- System Architecture
+**System Architecture
+
 images/system architecture.png
 
 💻 Installation & Setup
@@ -71,3 +72,18 @@ Recall	High 85
 F1-Score	High 88
 
 🖼️ Result Screenshots
+recommendation results
+
+images/recommedation 2.png 
+
+images/recommedation 1.png
+
+images/recommedation.png
+
+prediction results
+
+images/high risk.png 
+
+images/low risk.png
+
+
